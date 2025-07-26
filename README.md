@@ -18,3 +18,8 @@ conda create -p venv python==3.10 -y
 ...
 conda activate <path_env>
 ...
+
+## minimum requirements for this project
+1. LLm Model ## OpenAI, Gemini, Claude, Huggingface
+2. Embedding model ## openai, hf, gemini
+3. Vectordatabase ##inmemory ##ondisk ##cloudbased
